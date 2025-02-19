@@ -1,0 +1,7 @@
+- Construir a API [x]
+- Conexão com o Banco de Dados [x]
+- Conectar o Front com o Back [x]
+
+- Lógicas do Player [x]
+
+- GitHub e Deploy [x] -> extra
